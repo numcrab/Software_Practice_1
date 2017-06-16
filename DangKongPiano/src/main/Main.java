@@ -135,6 +135,7 @@ public class Main extends JFrame {
   
   /**
    * Getter for buttons
+   * @return buttons
    */
   public JButton[] getButtons() {
     return this.buttons;

@@ -79,7 +79,7 @@ public class Key {
   
   /**
    * Setter for melody name
-   * @param melody
+   * @param melody set melody name with this
    */
   public void setMelody(String melody) {
     this.melody = melody;

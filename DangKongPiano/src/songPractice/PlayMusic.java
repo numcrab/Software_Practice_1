@@ -210,7 +210,7 @@ class BlockingQ extends Thread {
 
   /**
    * Constructor of BlockingQ
-   * @param playMusic
+   * @param playMusic set playMusic with this
    */
   public BlockingQ(PlayMusic playMusic) {
     this.playMusic = playMusic;
