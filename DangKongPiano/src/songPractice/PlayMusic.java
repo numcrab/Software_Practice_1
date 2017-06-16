@@ -274,9 +274,9 @@ class BlockingQ extends Thread {
 
   /**
    * Show melody on the screen
-   * @param label	for show melody to screen
-   * @param xpos	x position of label
-   * @param melody	melody user has to type
+   * @param label	this show melody on the screen
+   * @param xpos x position of label
+   * @param melody melody user needs to type
    * @return label
    */
   JLabel setMelody(JLabel label, int xpos, String melody) {
@@ -289,7 +289,7 @@ class BlockingQ extends Thread {
   }
 
   /**
-   * delete a line of melody
+   * Deleter of each line
    * @param len the number of labels(melodies) to delete
    */
   void delete(int len) {
@@ -299,7 +299,9 @@ class BlockingQ extends Thread {
     }
   }
 
-  /** display "END" when player finished music */
+  /**
+   * Display "END" when player finished music
+   */
   void setEnd() {
     playMusic.text[0].setText("E");
     playMusic.text[0].setForeground(Color.RED);
@@ -316,7 +318,7 @@ class BlockingQ extends Thread {
   }
 
   /**
-   * setter for tokens
+   * Setter for tokens
    * @param tokens melodies to type
    */
   public void setTokens(String[] tokens) {
@@ -324,8 +326,8 @@ class BlockingQ extends Thread {
   }
 
   /**
-   * getter for tokens
-   * @return tokens to type
+   * Getter for tokens
+   * @return tokens
    */
   public String[] getTokens() {
     return tokens;
