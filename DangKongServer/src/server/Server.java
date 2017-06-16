@@ -5,14 +5,23 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-/* class for server of multi-play */
+/**
+ * Class for server in MultiPlay mode
+ * @author Team 2: Kim Kyu Yeon, Kim Yeon Jae
+ *
+ */
 public class Server {
-
-  private static Thread player1;      /* thread for player1 */
-  private static Thread player2;      /* thread for player2 */
-  private static Socket socket1;      /* socket for player1 */
-  private static Socket socket2;      /* socket for playter2 */
-  private static ServerSocket server; /* ServerSocket for multi-play */
+  
+  /** Thread for player1 */
+  private static Thread player1;
+  /** Thread for player2 */
+  private static Thread player2;
+  /** Socket for player1 */
+  private static Socket socket1;
+  /** Socket for player2 */
+  private static Socket socket2;
+  /** ServerSocket for MulitPlay */
+  private static ServerSocket server;
 
   /* server on */
   public static void main(String[] args) throws IOException {
