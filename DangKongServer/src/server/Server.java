@@ -39,6 +39,7 @@ public class Server {
   /**
    * Initialize server
    * @throws IOException for invalid server
+   * You can change port number here
    */
   public static void setServer() throws IOException {
     server = new ServerSocket(5000);
