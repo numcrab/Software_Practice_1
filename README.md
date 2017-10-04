@@ -1,4 +1,4 @@
 # DangKongPiano with server
-Software Experiment 1\n
-2017.04 ~ 2017.06\n
+Software Experiment 1&nbsp;
+2017.04 ~ 2017.06&nbsp;
 Made by Kyuyeon & Yeonjae
