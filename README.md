@@ -1,5 +1,5 @@
 # Software Practice 1
-Team project: Dangkong (2017.04 ~ 2017.06)<br>
+- Dangkong (2017.04 ~ 2017.06)<br>
 Made by Kyuyeon & Yeonjae<br><br>
 
 This is piano program with simple UI, which also can be sounded by keyboard and mouse.<br>
