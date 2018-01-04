@@ -1,5 +1,5 @@
 # Software Practice 1
-Dangkong Project(2017.04 ~ 2017.06): made by Kyuyeon & Yeonjae<br><br>
+Dangkong Project(2017.04 ~ 2017.06): made by Kyuyeon & Yeonjae<br>
 
 This is piano program with simple UI, which also can be sounded by keyboard and mouse.<br>
 - You can simply play the piano with pedal, by "Singleplay" mode.<br>
