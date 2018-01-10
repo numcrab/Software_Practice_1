@@ -10,8 +10,8 @@ This is piano program with simple UI, whose sound can be triggered by not only m
 
 For further information, DangKong.pptx is provided for your better understanding.
 
-*Professor: Hwansu Han
-*Assistant: Jeonghwan Park
+* Professor: Hwansu Han
+* Assistant: Jeonghwan Park
 
 ## Compilation and Execution
 Eclipse with Java version 1.8.0_131
