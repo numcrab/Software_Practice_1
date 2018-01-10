@@ -1,7 +1,7 @@
 # Software Practice 1
 
 ## Introduction
-Dangkong Project (2017.04 ~ 2017.06): made by *Kyuyeon Kim* & *Yeonjae Kim*
+**Dangkong Project** (2017.04 ~ 2017.06): made by *Kyuyeon Kim* & *Yeonjae Kim*
 
 This is piano program implemented with Java. Simple UIs are provided and sound can be triggered by not only mouse but also keyboard.
 - You can simply play the piano with pedal, by **Singleplay** mode.
@@ -16,4 +16,4 @@ For further information, `DangKong.pptx` is provided for your better understandi
 ## Compilation and Execution
 **Eclipse** with **Java 1.8.0_131**<br>
 
-You must run the server before going into `Multiplay` mode. If you have exception problem on server, please shut down all of Dangkong programs and restart them.
+You must run the server before going into **Multiplay** mode. If you have exception problem on server, please shut down all of Dangkong programs and restart them.
