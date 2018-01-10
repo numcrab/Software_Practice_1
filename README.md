@@ -14,5 +14,6 @@ For further information, `DangKong.pptx` is provided for your better understandi
 **Assistant** - *Jeonghwan Park*
 
 ## Compilation and Execution
-- `Eclipse` with `Java 1.8.0_131`<br>
-- You must run the server before going into `Multiplay` mode. If you have exception problem on server, please shut down all of Dangkong programs and restart them.
+`Eclipse` with `Java 1.8.0_131`<br>
+
+You must run the server before going into `Multiplay` mode. If you have exception problem on server, please shut down all of Dangkong programs and restart them.
